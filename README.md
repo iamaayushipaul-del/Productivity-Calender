@@ -31,17 +31,6 @@ You’ll see a menu like this:
 5. Edit Task
 6. Search by Date
 
-## File Structure
-Productivity_Calendar/
-│
-├── tasks.json             # Automatically created to store your tasks
-├── productivity_calendar.py  # Main Python script
-
-## Notes
-All data is stored in tasks.json inside your Google Drive path.
-If the file doesn’t exist, it will be created automatically.
-The app uses simple JSON for easy backup and manual editing if needed.
-
 ## Authors
 Aayushi Paul, Arya Sharma, Sia Oberoi
-8. Exit
+
